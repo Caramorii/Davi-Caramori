@@ -1,9 +1,9 @@
-# 👋 Olá! Eu sou o Camarada (Caramorii)
+# 👋 Olá! Me chamo Davi Caramori!
 
 🎓 Estudante de **Ciência da Computação**  
-🔐 Interessado em **Cybersegurança**, **Python**, **Programação Web**  
+🔐 Interessado em **Cybersegurança**, **Python**, **Analise de Dados**  
 ⚙️ Atualmente estou aprendendo **Python**, **HTML/CSS/JS** e fundamentos de **Redes**  
-📚 Também estudo para concursos públicos e me dedico a entender bem lógica, matemática e programação
+📚 Também estudo para entender bem lógica, matemática e programação
 
 ---
 
