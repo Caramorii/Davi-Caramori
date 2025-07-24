@@ -37,8 +37,8 @@
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com) *(coloque seu link aqui, ou deixe em branco se ainda não tiver)*
-- ✉️ Email: seucamail@gmail.com *(opcional)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/davi-caramori/))
+- ✉️ Email: davicaramoi.200@gmail.com
 
 ---
 
